@@ -1,0 +1,10 @@
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\bin\Debug\ClassLibrary1.dll
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csproj.CopyComplete
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\Tetu\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.pdb

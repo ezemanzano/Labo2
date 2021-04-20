@@ -1,0 +1,15 @@
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\bin\Debug\FrmCentralita.exe.config
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\bin\Debug\FrmCentralita.exe
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\bin\Debug\FrmCentralita.pdb
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.FrmMenu.resources
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.Properties.Resources.resources
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.csproj.GenerateResource.cache
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.exe
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.pdb
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\bin\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\bin\Debug\Biblioteca.pdb
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.FrmMostrar.resources
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.csproj.CopyComplete
+C:\Users\Tetu\source\repos\Ejercicio37\FrmCentralita\obj\Debug\FrmCentralita.FrmLlamador.resources

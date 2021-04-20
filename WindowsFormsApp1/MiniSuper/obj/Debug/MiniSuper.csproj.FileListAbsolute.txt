@@ -1,0 +1,9 @@
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\obj\Debug\MiniSuper.csprojAssemblyReference.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\obj\Debug\MiniSuper.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\bin\Debug\MiniSuper.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\bin\Debug\MiniSuper.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\bin\Debug\Cliente.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\bin\Debug\Cliente.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\obj\Debug\MiniSuper.csproj.CopyComplete
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\obj\Debug\MiniSuper.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\WindowsFormsApp1\MiniSuper\obj\Debug\MiniSuper.pdb

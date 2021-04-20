@@ -1,0 +1,5 @@
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\07_Card_Game\Business\bin\Debug\Business.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\07_Card_Game\Business\bin\Debug\Business.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\07_Card_Game\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\07_Card_Game\Business\obj\Debug\Business.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\07_Card_Game\Business\obj\Debug\Business.pdb

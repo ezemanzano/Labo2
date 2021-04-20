@@ -1,0 +1,6 @@
+C:\Users\Tetu\source\repos\Herencia\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Herencia\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Tetu\source\repos\Herencia\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Herencia\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Herencia\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Herencia\Biblioteca\obj\Debug\Biblioteca.pdb

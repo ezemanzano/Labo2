@@ -1,0 +1,6 @@
+C:\Users\Tetu\source\repos\ConversorForm\Moneda\bin\Debug\Moneda.dll
+C:\Users\Tetu\source\repos\ConversorForm\Moneda\bin\Debug\Moneda.pdb
+C:\Users\Tetu\source\repos\ConversorForm\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\ConversorForm\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\ConversorForm\Moneda\obj\Debug\Moneda.dll
+C:\Users\Tetu\source\repos\ConversorForm\Moneda\obj\Debug\Moneda.pdb

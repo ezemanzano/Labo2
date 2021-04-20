@@ -1,0 +1,6 @@
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\Figura\obj\Debug\Figura.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\Figura\obj\Debug\Figura.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\Figura\bin\Debug\Figura.dll
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\Figura\bin\Debug\Figura.pdb
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\Figura\obj\Debug\Figura.dll
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\Figura\obj\Debug\Figura.pdb

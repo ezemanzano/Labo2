@@ -1,0 +1,10 @@
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\bin\Debug\ClassLibrary1.dll
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CopyComplete
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\Tetu\source\repos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

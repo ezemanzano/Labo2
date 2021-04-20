@@ -1,0 +1,6 @@
+C:\Users\Tetu\source\repos\Ejercicio37\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Ejercicio37\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Tetu\source\repos\Ejercicio37\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Ejercicio37\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Ejercicio37\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Ejercicio37\Biblioteca\obj\Debug\Biblioteca.pdb

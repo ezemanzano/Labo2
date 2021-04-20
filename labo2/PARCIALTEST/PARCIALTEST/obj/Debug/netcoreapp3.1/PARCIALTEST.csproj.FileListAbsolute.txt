@@ -1,0 +1,13 @@
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\bin\Debug\netcoreapp3.1\PARCIALTEST.exe
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\bin\Debug\netcoreapp3.1\PARCIALTEST.deps.json
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\bin\Debug\netcoreapp3.1\PARCIALTEST.runtimeconfig.json
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\bin\Debug\netcoreapp3.1\PARCIALTEST.runtimeconfig.dev.json
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\bin\Debug\netcoreapp3.1\PARCIALTEST.dll
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\bin\Debug\netcoreapp3.1\PARCIALTEST.pdb
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.AssemblyInfoInputs.cache
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.AssemblyInfo.cs
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.dll
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.pdb
+C:\Users\Tetu\source\repos\PARCIALTEST\PARCIALTEST\obj\Debug\netcoreapp3.1\PARCIALTEST.genruntimeconfig.cache

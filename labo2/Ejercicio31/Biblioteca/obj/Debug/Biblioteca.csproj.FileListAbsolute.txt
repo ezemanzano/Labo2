@@ -1,0 +1,5 @@
+C:\Users\Tetu\source\repos\Ejercicio31\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Ejercicio31\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Tetu\source\repos\Ejercicio31\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Ejercicio31\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Tetu\source\repos\Ejercicio31\Biblioteca\obj\Debug\Biblioteca.pdb

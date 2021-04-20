@@ -1,0 +1,10 @@
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\bin\Release\Clase2.exe.config
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\bin\Release\Clase2.exe
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\bin\Release\Clase2.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\bin\Release\ClassLibrary1.dll
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\bin\Release\ClassLibrary1.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\obj\Release\Clase2.csprojAssemblyReference.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\obj\Release\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\obj\Release\Clase2.csproj.CopyComplete
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\obj\Release\Clase2.exe
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Clase2\Clase2\obj\Release\Clase2.pdb

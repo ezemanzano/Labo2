@@ -1,0 +1,13 @@
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\bin\Debug\ConversorForm.exe.config
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\bin\Debug\ConversorForm.exe
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\bin\Debug\ConversorForm.pdb
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\bin\Debug\Moneda.dll
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\bin\Debug\Moneda.pdb
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.FrmPrincipal.resources
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.Properties.Resources.resources
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.csproj.GenerateResource.cache
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.csproj.CopyComplete
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.exe
+C:\Users\Tetu\source\repos\ConversorForm\ConversorForm\obj\Debug\ConversorForm.pdb

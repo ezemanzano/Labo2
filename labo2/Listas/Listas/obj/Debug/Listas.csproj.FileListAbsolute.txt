@@ -1,0 +1,7 @@
+C:\Users\Tetu\source\repos\Listas\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\Tetu\source\repos\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\Tetu\source\repos\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\Tetu\source\repos\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\Tetu\source\repos\Listas\Listas\obj\Debug\Listas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tetu\source\repos\Ejercicio33\Libro\obj\Debug\Libro.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Ejercicio33\Libro\obj\Debug\Libro.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Ejercicio33\Libro\bin\Debug\Libro.dll
+C:\Users\Tetu\source\repos\Ejercicio33\Libro\bin\Debug\Libro.pdb
+C:\Users\Tetu\source\repos\Ejercicio33\Libro\obj\Debug\Libro.dll
+C:\Users\Tetu\source\repos\Ejercicio33\Libro\obj\Debug\Libro.pdb

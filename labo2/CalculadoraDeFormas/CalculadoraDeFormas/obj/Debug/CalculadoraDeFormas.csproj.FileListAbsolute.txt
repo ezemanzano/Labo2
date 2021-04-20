@@ -1,0 +1,10 @@
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe.config
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.exe
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\CalculadoraDeFormas.pdb
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Figura.dll
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\bin\Debug\Figura.pdb
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.csproj.CopyComplete
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.exe
+C:\Users\Tetu\source\repos\CalculadoraDeFormas\CalculadoraDeFormas\obj\Debug\CalculadoraDeFormas.pdb

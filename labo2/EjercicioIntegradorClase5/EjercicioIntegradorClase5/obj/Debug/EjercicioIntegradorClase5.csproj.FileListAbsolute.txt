@@ -1,0 +1,10 @@
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\bin\Debug\EjercicioIntegradorClase5.exe.config
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\bin\Debug\EjercicioIntegradorClase5.exe
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\bin\Debug\EjercicioIntegradorClase5.pdb
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\bin\Debug\Producto.dll
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\bin\Debug\Producto.pdb
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\obj\Debug\EjercicioIntegradorClase5.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\obj\Debug\EjercicioIntegradorClase5.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\obj\Debug\EjercicioIntegradorClase5.csproj.CopyComplete
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\obj\Debug\EjercicioIntegradorClase5.exe
+C:\Users\Tetu\source\repos\EjercicioIntegradorClase5\EjercicioIntegradorClase5\obj\Debug\EjercicioIntegradorClase5.pdb

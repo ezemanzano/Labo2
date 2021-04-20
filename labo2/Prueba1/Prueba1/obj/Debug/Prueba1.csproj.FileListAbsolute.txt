@@ -1,0 +1,7 @@
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\obj\Debug\Prueba1.csprojAssemblyReference.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Tetu\Documents\Facu TT\2DO CUATRI\Labo2\Prueba1\Prueba1\obj\Debug\Prueba1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\obj\Debug\Abstractas.csprojAssemblyReference.cache
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\obj\Debug\Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\bin\Debug\Abstractas.exe.config
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\bin\Debug\Abstractas.exe
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\bin\Debug\Abstractas.pdb
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\bin\Debug\Biblio.dll
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\bin\Debug\Biblio.pdb
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\obj\Debug\Abstractas.csproj.CopyComplete
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\obj\Debug\Abstractas.exe
+C:\Users\Tetu\source\repos\Abstractas\Abstractas\obj\Debug\Abstractas.pdb
